@@ -24,3 +24,10 @@ yarn-error.log*
 
 # firebase
 .firebase
+.firebaserc
+
+# env
+.env
+
+# package lock
+package-lock.json
