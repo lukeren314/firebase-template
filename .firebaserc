@@ -1,8 +1,0 @@
-{
-  "projects": {
-    "default": "firebase-template",
-    "firebase-template": "firebase-template-416523"
-  },
-  "targets": {},
-  "etags": {}
-}
